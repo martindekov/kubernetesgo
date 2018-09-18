@@ -6,4 +6,4 @@ functions:
   kuberneteswat:
     lang: go
     handler: ./kubernetesgo
-    image: martindekov/kubernetesgo:latest
+    image: martindekov/swag:latest
